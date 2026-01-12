@@ -415,3 +415,33 @@ body {
     width: 222.39;
     height: 247.06px;
 }
+.work-together{
+    width: 1700px;
+    height: 500px;
+    background-color: #101828;
+}
+.work-together h1{
+    color: #ffffff;
+      font-family:work sans-serif;
+      font-size: 40px ;
+      text-align: center;
+    margin-top: 150px;
+
+}
+.work-together p{
+    color: #a5aca8;
+    font-family:work sans-serif;
+    font-size: 17px;
+    text-align: center;
+    margin-top:50 px;
+}
+
+.work-together button{
+    border-radius: 5px;
+    background-color: #a33bfd;
+    color:  white;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-around;
+
+}
